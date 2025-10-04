@@ -9,6 +9,12 @@
 
 **A modern To-Do application with REST API and MCP server integration**
 
+## 🎬 Watch the Demo Video
+
+[![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube)](./todo-api-mcp-demo.mp4)
+
+_Click above to watch the complete project demonstration!_
+
 [🚀 Features](#-features) • [📦 Installation](#-installation) • [🔧 Usage](#-usage) • [📚 API Documentation](#-api-documentation) • [🎥 Demo Video](#-demo-video)
 
 </div>
@@ -205,12 +211,12 @@ curl -X GET "http://localhost:8000/mcp/resources/todo_summary"
 
 ### 🎬 Watch the Project Demo
 
-[![Demo Video](https://img.shields.io/badge/📹_Watch_Demo-Video-red?style=for-the-badge)](./nasarali.mp4)
+[![Demo Video](https://img.shields.io/badge/📹_Watch_Demo-Video-red?style=for-the-badge)](./todo-api-mcp-demo.mp4)
 
 **Click the button above or the video below to watch the complete project demonstration!**
 
 <video width="800" controls>
-  <source src="./nasarali.mp4" type="video/mp4">
+  <source src="./todo-api-mcp-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -231,7 +237,7 @@ mcp/
 ├── 📄 models.py             # Pydantic data models
 ├── 📄 requirements.txt      # Python dependencies
 ├── 📄 mcp_server.json       # MCP server configuration
-├── 📄 nasarali.mp4          # Demo video
+├── 📄 todo-api-mcp-demo.mp4  # Demo video
 ├── 📄 README.md             # This file
 └── 📄 LICENSE               # MIT License
 ```
@@ -299,7 +305,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub**: [@nasarali](https://github.com/nasarali)
 - **Project**: To-Do API with MCP Server
-- **Video**: [Watch Demo](./nasarali.mp4)
+- **Video**: [Watch Demo](./todo-api-mcp-demo.mp4)
 
 ---
 
@@ -317,7 +323,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 
 1. **Check** the [API Documentation](http://localhost:8000/docs)
-2. **Watch** the [Demo Video](./nasarali.mp4)
+2. **Watch** the [Demo Video](./todo-api-mcp-demo.mp4)
 3. **Open** an issue on GitHub
 4. **Contact** the author
 
