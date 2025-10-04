@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "todo-mcp-server": {
+      "command": "python",
+      "args": [
+        "-m",
+        "uvicorn",
+        "main:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "8000"
+      ],
+      "env": {},
+      "description": "MCP server for managing To-Do tasks"
+    }
+  }
+}
